@@ -14,7 +14,7 @@ Step 1-> Add ash class name to your dropdown like below
        
 Step 2->add autosch.css and autosch.js file in your html or web page like below
 
-       <link rel="stylesheet" href="autosch.css"/>
-       <script src="autosch.js"></script>
+       <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/rrbadrike/dropdown_autosearch/autosch.css"/>
+       <script src="https://cdn.jsdelivr.net/gh/rrbadrike/dropdown_autosearch/autosch.js"></script>
 
 Enjoy now you can able to search in dropdown
