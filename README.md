@@ -2,7 +2,8 @@
 This script alllows you to search in dropdown by typing without jquery
 
 Step 1-> Add ash class name to your dropdown like below
-        	<select name="country" class="ash">
+        	
+	     <select name="country" class="ash">
           		<option>India</option>
           		<option>USA</option>
           		<option>UAE</option>
