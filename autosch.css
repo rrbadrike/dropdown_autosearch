@@ -6,8 +6,8 @@
 
 }
 #myresult{
-	position: absolute;
-    top: 50px;
+     position: absolute;
+     top: auto;
     width: inherit;
 
 }
